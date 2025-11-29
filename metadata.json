@@ -1,0 +1,5 @@
+{
+  "name": "CorrectoOverlay",
+  "description": "A split-layer PDF correction tool allowing users to overlay correction keys onto student papers with rectangle-reveal, highlighting, and drawing capabilities. Features local persistence and auto-expiry.",
+  "requestFramePermissions": []
+}
